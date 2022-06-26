@@ -1,4 +1,4 @@
-### <h1 align="center">👋Hi there, I'm Nemo😊</h1>
+### <h2 >👋Hi there, I'm Nemo😊</h2>
 
 ## I'm a student and Developer!!
 
