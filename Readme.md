@@ -1,6 +1,8 @@
 ### <h2 >👋Hi there, I'm Nemo😊</h2>
 
-## I'm a student and Developer!!
+---
+
+#### I'm a student and Developer!!
 
 - 🔭 Check out my Portfolio: [https://nimcorashiid.netlify.app/]
 - 🌱 I’m currently learning everything 🤣
@@ -27,5 +29,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NemoRashed&show_icons=true&theme=radical)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemoRashed)](https://github.com/anuraghazra/github-readme-stats)
