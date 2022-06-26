@@ -2,7 +2,7 @@
 
 ---
 
-#### I'm a student and Developer!!
+#### I'm a student and Web Developer!!
 
 - 🔭 Check out my Portfolio: [https://nimcorashiid.netlify.app/]
 - 🌱 I’m currently learning everything 🤣
