@@ -4,7 +4,7 @@
 
 #### I'm a student and Web Developer!!
 
-- 🔭 Check out my Portfolio: [https://nimcorashiid.netlify.app/]
+- 🔭 Check out my Portfolio: https://nimcorashiid.netlify.app/
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
