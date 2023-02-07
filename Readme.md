@@ -13,7 +13,7 @@
 ---
 
 ### connect with me:
-- linkedin-Nimco-Rashid
+- https://www.linkedin.com/in/nimco-rashid-6296a222b/
 
 ---
 
