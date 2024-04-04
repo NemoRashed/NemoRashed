@@ -5,9 +5,9 @@
 #### I'm a student and Web Developer!!
 
 - 🔭 Check out my Portfolio: https://nimcorashiid.netlify.app/
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To be professional web developer.
+- 🥅 2024 Goals: To be professional web developer.
 - ⚡ Fun fact: I love to draw and drink coffe 😊
 
 ---
