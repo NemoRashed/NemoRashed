@@ -1,8 +1,8 @@
-### <h2 >👋Hi there, I'm Nimco Rashid😊</h2>
+### <h2 >👋Hi there😊</h2>
 
 
 
-#### I'm a student and Web Developer!!
+#### I'm Nimco Rashid, a passionate Software Developer with a knack for turning ideas into scalable, efficient web applications. My expertise spans across front-end and back-end technologies, including JavaScript, React.js, Next.js, Tailwind CSS, MongoDB, and Express.
 
 - 👨‍💻 Software Developer
 - 💻 Tech Stack: JavaScript, Next.js, Tailwind CSS, MongoDB, Express
