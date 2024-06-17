@@ -5,12 +5,12 @@
 #### I'm a student and Web Developer!!
 
 - 👨‍💻 Software Developer
--💻 Tech Stack: JavaScript, Next.js, Tailwind CSS, MongoDB, Express
--🎨 Creative: Graphic Design, Video Editing
--🚀 Passionate about: Building scalable web applications and crafting intuitive user experiences
--🌟 Always Learning: Open-source enthusiast and continuous learner
--📫 Get in touch: nemorashed12@gmail.com
--🌐 Portfolio: https://nimcorashiid.netlify.app
+- 💻 Tech Stack: JavaScript, Next.js, Tailwind CSS, MongoDB, Express
+- 🎨 Creative: Graphic Design, Video Editing
+- 🚀 Passionate about: Building scalable web applications and crafting intuitive user experiences
+- 🌟 Always Learning: Open-source enthusiast and continuous learner
+- 📫 Get in touch: nemorashed12@gmail.com
+- 🌐 Portfolio: https://nimcorashiid.netlify.app
 
 ---
 
