@@ -1,14 +1,16 @@
-### <h2 >👋Hi there, I'm Nemo😊</h2>
+### <h2 >👋Hi there, I'm Nimco Rashid😊</h2>
 
 
 
 #### I'm a student and Web Developer!!
 
-- 🔭 Check out my Portfolio: https://nimcorashiid.netlify.app/
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: To be professional web developer.
-- ⚡ Fun fact: I love to draw and drink coffe 😊
+- 👨‍💻 Software Developer
+-💻 Tech Stack: JavaScript, Next.js, Tailwind CSS, MongoDB, Express
+-🎨 Creative: Graphic Design, Video Editing
+-🚀 Passionate about: Building scalable web applications and crafting intuitive user experiences
+-🌟 Always Learning: Open-source enthusiast and continuous learner
+-📫 Get in touch: nemorashed12@gmail.com
+-🌐 Portfolio: https://nimcorashiid.netlify.app
 
 ---
 
